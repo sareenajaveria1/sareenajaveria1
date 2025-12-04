@@ -12,7 +12,7 @@
   * Comparative analysis of marble vs. chalk particle settling characteristics
 - A swdimentation tank was designed with optimized dimensions (height, diameter) for effective particle separation.
 - The study aims to understand particle dynamics in industrial processes like water treatment, mineral processing and slurry transport.
-- [View Project PDF](https:PARTICULATE PROJECT.pdf )
+- [View Project PDF](https: PARTICULATE PROJECT.pdf )
 ## Contact:
 **Email: sareenajaveria26@gmail.com
 **LinkedIn: https://www.linkedin.com/in/sareenajaveria123
